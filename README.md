@@ -1,5 +1,7 @@
 # NewsApp
 
+Will be used as my repo as I go through the tutorial from https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
